@@ -1,0 +1,90 @@
+.macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .div {
+  background-color: #ffffff;
+  width: 1641px;
+  height: 1244px;
+  position: relative;
+}
+
+.macbook-pro .overlap-group {
+  position: absolute;
+  width: 1641px;
+  height: 161px;
+  top: 0;
+  left: 0;
+  background-color: #1da79e;
+}
+
+.macbook-pro .text-wrapper {
+  position: absolute;
+  top: 45px;
+  left: 69px;
+  font-family: "Poller One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .takbir {
+  position: absolute;
+  width: 588px;
+  height: 583px;
+  top: 235px;
+  left: 893px;
+  object-fit: cover;
+}
+
+.macbook-pro .athaya {
+  top: 266px;
+  left: 10px;
+  position: absolute;
+  width: 412px;
+  height: 431px;
+  object-fit: cover;
+}
+
+.macbook-pro .latin-arti {
+  height: 342px;
+  top: 311px;
+  left: 424px;
+  position: absolute;
+  width: 357px;
+  object-fit: cover;
+}
+
+.macbook-pro .img {
+  top: 771px;
+  left: 30px;
+  position: absolute;
+  width: 412px;
+  height: 431px;
+  object-fit: cover;
+}
+
+.macbook-pro .latin-arti-2 {
+  height: 359px;
+  top: 803px;
+  left: 454px;
+  position: absolute;
+  width: 357px;
+  object-fit: cover;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+}

@@ -1,0 +1,82 @@
+.macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1512px;
+  height: 1246px;
+  position: relative;
+}
+
+.macbook-pro .overlap-group {
+  position: absolute;
+  width: 1641px;
+  height: 161px;
+  top: 0;
+  left: 0;
+  background-color: #1da79e;
+}
+
+.macbook-pro .text-wrapper {
+  position: absolute;
+  top: 45px;
+  left: 69px;
+  font-family: "Poller One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .takbir {
+  position: absolute;
+  width: 416px;
+  height: 443px;
+  top: 275px;
+  left: 0;
+  object-fit: cover;
+}
+
+.macbook-pro .whatsapp-image {
+  position: absolute;
+  width: 429px;
+  height: 309px;
+  top: 275px;
+  left: 427px;
+  object-fit: cover;
+}
+
+.macbook-pro .img {
+  position: absolute;
+  width: 315px;
+  height: 372px;
+  top: 628px;
+  left: 488px;
+  object-fit: cover;
+}
+
+.macbook-pro .whatsapp-image-2 {
+  position: absolute;
+  width: 351px;
+  height: 189px;
+  top: 1033px;
+  left: 470px;
+  object-fit: cover;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+}

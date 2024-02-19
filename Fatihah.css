@@ -1,0 +1,81 @@
+.macbook-pro {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.macbook-pro .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1617px;
+  height: 1166px;
+  position: relative;
+}
+
+.macbook-pro .overlap-group {
+  position: absolute;
+  width: 1641px;
+  height: 161px;
+  top: 0;
+  left: -24px;
+  background-color: #1da79e;
+}
+
+.macbook-pro .text-wrapper {
+  position: absolute;
+  top: 45px;
+  left: 69px;
+  font-family: "Poller One-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.macbook-pro .overlap {
+  position: absolute;
+  width: 832px;
+  height: 443px;
+  top: 195px;
+  left: 81px;
+}
+
+.macbook-pro .takbir {
+  position: absolute;
+  width: 614px;
+  height: 443px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.macbook-pro .takbiraltuh-ihram {
+  position: absolute;
+  width: 232px;
+  height: 337px;
+  top: 72px;
+  left: 600px;
+  object-fit: cover;
+}
+
+.macbook-pro .arti-al-fatihah {
+  position: absolute;
+  width: 478px;
+  height: 465px;
+  top: 638px;
+  left: 138px;
+  object-fit: cover;
+}
+
+a{
+  color: #000000;
+  text-decoration: none;
+}
+
+body{
+  margin: 0;
+}

@@ -1,0 +1,82 @@
+.macbook-pro {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .macbook-pro .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1609px;
+    height: 841px;
+    position: relative;
+  }
+  
+  .macbook-pro .overlap-group {
+    position: absolute;
+    width: 1641px;
+    height: 161px;
+    top: 0;
+    left: 0;
+    background-color: #1da79e;
+  }
+  
+  .macbook-pro .text-wrapper {
+    position: absolute;
+    top: 45px;
+    left: 29px;
+    font-family: "Poller One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .pengertian-dhuha {
+    position: absolute;
+    width: 736px;
+    height: 242px;
+    top: 200px;
+    left: 19px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .niat {
+    position: absolute;
+    width: 444px;
+    height: 318px;
+    top: 492px;
+    left: 19px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .line {
+    position: absolute;
+    width: 1609px;
+    height: 3px;
+    top: 464px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .arti-niat {
+    position: absolute;
+    width: 444px;
+    height: 100px;
+    top: 683px;
+    left: 496px;
+    object-fit: cover;
+  }
+
+ a{
+    color: #000000;
+    text-decoration: none;
+ }
+
+ body{
+  margin: 0;
+}

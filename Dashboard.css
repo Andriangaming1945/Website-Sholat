@@ -1,0 +1,178 @@
+.macbook-pro {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .macbook-pro .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1512px;
+    height: 1405px;
+    position: relative;
+  }
+
+  body{
+    margin: 0;
+  }
+
+  a{
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .macbook-pro .overlap-group {
+    position: absolute;
+    width: 1641px;
+    height: 161px;
+    top: 0;
+    left: 0;
+    background-color: #1da79e;
+  }
+  
+  .macbook-pro .text-wrapper {
+    position: absolute;
+    top: 45px;
+    left: 29px;
+    font-family: "Poller One-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .element {
+    height: 131px;
+    top: 238px;
+    left: 131px;
+    position: absolute;
+    width: 146px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .sholat-sunnah {
+    top: 210px;
+    left: 290px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .span {
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+  }
+  
+  .macbook-pro .text-wrapper-2 {
+    font-size: 30px;
+  }
+  
+  .macbook-pro .line {
+    width: 1491px;
+    height: 1px;
+    top: 431px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .img {
+    height: 144px;
+    top: 1109px;
+    left: 141px;
+    position: absolute;
+    width: 146px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .sholat-sunnah-witir {
+    top: 1100px;
+    left: 300px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .line-2 {
+    width: 1491px;
+    height: 1px;
+    top: 1365px;
+    left: 10px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .element-2 {
+    height: 131px;
+    top: 807px;
+    left: 131px;
+    position: absolute;
+    width: 146px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .p {
+    top: 788px;
+    left: 290px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    
+  }
+  
+  .macbook-pro .line-3 {
+    width: 1512px;
+    height: 2px;
+    top: 1039px;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .element-3 {
+    height: 131px;
+    top: 519px;
+    left: 133px;
+    position: absolute;
+    width: 146px;
+    object-fit: cover;
+  }
+  
+  .macbook-pro .sholat-sunnah-dhuha {
+    top: 500px;
+    left: 311px;
+    position: absolute;
+    font-family: "Poppins-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .macbook-pro .line-4 {
+    width: 1491px;
+    height: 1px;
+    top: 714px;
+    left: 21px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
